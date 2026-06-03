@@ -1,0 +1,1 @@
+print("iScholar Monitor iniciado")
